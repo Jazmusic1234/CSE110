@@ -1,3 +1,3 @@
-# CSE110
+# CSE110 Lab 1
 
-Lab 1
+Jasmine's User Page
