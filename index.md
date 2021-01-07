@@ -11,7 +11,7 @@
 
 ## Skills
 
-**Top 3*
+**Top 3**
 1. C/C++	
 2. Arduino
 3. Python
@@ -25,10 +25,10 @@
 * Solidworks
 
 *Skills to Learn*
-[ ]ReactJS
-[ ]VueJS
-[ ]Cybersecurity
-[ ]Machine learning
+-[ ]ReactJS
+-[ ]VueJS
+-[ ]Cybersecurity
+-[ ]Machine learning
 
 
 ## Projects
