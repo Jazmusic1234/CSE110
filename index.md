@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Jazmusic1234/CSE110/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Favorite quote**: 
+>This too shall pass
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Hobbies/Interests**:
+  * Gardening/Urban Farming/Food security
+  * Electronics repair
+  * Sustainability
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+**Top 3**
+1. C/C++	
+2. Arduino
+3. Python
 
-# Header 1
-## Header 2
-### Header 3
+* Java
+* Vim
+* HTML
+* CSS/Bootstrap
+* Javascript
+* Git
+* Solidworks
 
-- Bulleted
-- List
+*Skills to Learn*
+- [ ] ReactJS
+- [ ] VueJS
+- [ ] Cybersecurity
+- [ ] Machine learning
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Projects
+Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/FinalProject/)!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Extracurriculars
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jazmusic1234/CSE110/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
