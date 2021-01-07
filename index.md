@@ -1,6 +1,7 @@
 ## About Me
 
-**Favorite quote**: >This too shall pass
+**Favorite quote**: 
+>This too shall pass
 
 **Hobbies/Interests**:
   * Gardening/Urban Farming/Food security
@@ -24,10 +25,10 @@
 * Solidworks
 
 *Skills to Learn*
-[]ReactJS
-[]VueJS
-[]Cybersecurity
-[]Machine learning
+[ ]ReactJS
+[ ]VueJS
+[ ]Cybersecurity
+[ ]Machine learning
 
 
 ## Projects
