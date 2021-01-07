@@ -48,7 +48,7 @@ Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/Final
           
 
      
-* Roger's Urban Farmlab ![RUF Logo[(/CSE110/imgs/Rogers_logo.png)
+* Roger's Urban Farmlab ![RUF Logo](/CSE110/imgs/Rogers_logo.png)
      
 
 
