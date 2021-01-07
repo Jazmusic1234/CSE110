@@ -7,6 +7,7 @@
   * Gardening/Urban Farming/Food security
   * Electronics repair
   * Sustainability
+  * ~~Netflix~~
 
 
 ## Skills
@@ -37,11 +38,11 @@ Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/Final
 
 ## Extracurriculars
 * Warren Grow! ![Warren Grow! Logo](/CSE110/imgs/WarrenGrow_Logo.jpg)
-     * Food-insecurity Resource Market: Invited speakers from different food insecurity related organization on and around UCSD campus to speak to 300+ students about how they help combat food insecurity
-     * Composting: Students and community members can drop off their organic food waste at the garden which we then process into compost for the garden
+     * **Food-insecurity Resource Market**: Invited speakers from different food insecurity related organization on and around UCSD campus to speak to 300+ students about how they help combat food insecurity
+     * **Composting**: Students and community members can drop off their organic food waste at the garden which we then process into compost for the garden
      
 * Computer Science for Agriculture ![CSA Logo](/CSE110/imgs/CSA_ABB_Final.png)
-     * Anaerobic Digester Box: Automatic refilling of the anaerobic digester’s reservoir so it didn’t have to be manually refilled
+     * **Anaerobic Digester Box**: Automatic refilling of the anaerobic digester’s reservoir so it didn’t have to be manually refilled
           - Wired together the circuit board, Arduino, LCD screen, relay, and sensor
           - Programmed Arduino to read and display water level onto the LCD screen
           - Programmed Arduino to turn on the pump when the water level was low
