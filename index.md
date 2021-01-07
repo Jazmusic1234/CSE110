@@ -26,13 +26,13 @@
 
 *Skills to Learn*
 
-[ ]ReactJS
+[ ] ReactJS
 
-[ ]VueJS
+[ ] VueJS
 
-[ ]Cybersecurity
+[ ] Cybersecurity
 
-[ ]Machine learning
+[ ] Machine learning
 
 
 ## Projects
