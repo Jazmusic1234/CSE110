@@ -25,13 +25,9 @@
 * Solidworks
 
 *Skills to Learn*
-
 - [ ] ReactJS
-
 - [ ] VueJS
-
 - [ ] Cybersecurity
-
 - [ ] Machine learning
 
 
