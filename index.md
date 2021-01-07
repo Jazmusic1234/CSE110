@@ -41,19 +41,19 @@ Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/Final
 
 ## Extracurriculars
 ![Warren Grow! Logo](/CSE110/imgs/WarrenGrow_Logo.jpg)
-### * Warren Grow! 
+* Warren Grow! 
      * **Food-insecurity Resource Market**: Invited speakers from different food insecurity related organization on and around UCSD campus to speak to 300+ students about how they help combat food insecurity
      * **Composting**: Students and community members can drop off their organic food waste at the garden which we then process into compost for the garden
      
 ![CSA Logo](/CSE110/imgs/CSA_ABB_Final.png)
-### * Computer Science for Agriculture 
+* Computer Science for Agriculture 
      * **Anaerobic Digester Box**: Automatic refilling of the anaerobic digester’s reservoir so it didn’t have to be manually refilled
           - Wired together the circuit board, Arduino, LCD screen, relay, and sensor
           - Programmed Arduino to read and display water level onto the LCD screen
           - Programmed Arduino to turn on the pump when the water level was low
           
 ![RUF Logo](/CSE110/imgs/Rogers_logo.png)
-### * Roger's Urban Farmlab 
+* Roger's Urban Farmlab 
      * Community garden and student sustainability reseach space
      
 ---
