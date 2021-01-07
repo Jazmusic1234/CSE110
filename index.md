@@ -41,11 +41,11 @@ Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/Final
      * Composting: Students and community members can drop off their organic food waste at the garden which we then process into compost for the garden
      
 * Computer Science for Agriculture ![CSA Logo](/CSE110/imgs/CSA_ABB_Final.png)
-     * Anaerobic Digester Box
+     * Anaerobic Digester Box: Automatic refilling of the anaerobic digester’s reservoir so it didn’t have to be manually refilled
           - Wired together the circuit board, Arduino, LCD screen, relay, and sensor
           - Programmed Arduino to read and display water level onto the LCD screen
           - Programmed Arduino to turn on the pump when the water level was low
-          Details: Automatic refilling of the anaerobic digester’s reservoir so it didn’t have to be manually refilled
+          
 
      
 * Roger's Urban Farmlab ![RUF Logo[(/CSE110/imgs/Rogers_logo.png)
