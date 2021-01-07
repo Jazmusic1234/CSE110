@@ -9,6 +9,7 @@
   * Sustainability
   * ~~Netflix~~
 
+---
 
 ## Skills
 
@@ -31,10 +32,12 @@
 - [ ] Cybersecurity
 - [ ] Machine learning
 
+---
 
 ## Projects
 Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/FinalProject/)!
 
+---
 
 ## Extracurriculars
 ![Warren Grow! Logo](/CSE110/imgs/WarrenGrow_Logo.jpg)
@@ -53,7 +56,7 @@ Check out my [portfolio website](https://lizard-lightning-slayer.glitch.me/Final
 * Roger's Urban Farmlab 
      * Community garden and student sustainability reseach space
      
-
+---
 
 ## Contact Me
 Email: jasmine.chen8@yahoo.com
